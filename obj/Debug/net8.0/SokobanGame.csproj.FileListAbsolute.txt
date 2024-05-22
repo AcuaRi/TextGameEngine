@@ -1,0 +1,14 @@
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\bin\Debug\net8.0\SokobanGame.exe
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\bin\Debug\net8.0\SokobanGame.deps.json
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\bin\Debug\net8.0\SokobanGame.runtimeconfig.json
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\bin\Debug\net8.0\SokobanGame.dll
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\bin\Debug\net8.0\SokobanGame.pdb
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.AssemblyInfoInputs.cache
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.AssemblyInfo.cs
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.csproj.CoreCompileInputs.cache
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.dll
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\refint\SokobanGame.dll
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.pdb
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.genruntimeconfig.cache
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\ref\SokobanGame.dll
