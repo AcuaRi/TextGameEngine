@@ -12,3 +12,4 @@ C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\r
 C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.pdb
 C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.genruntimeconfig.cache
 C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\ref\SokobanGame.dll
+C:\Users\whdgh\RiderProjects\ObjectiveProgramming\SokobanGame\obj\Debug\net8.0\SokobanGame.sourcelink.json

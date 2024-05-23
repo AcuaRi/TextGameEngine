@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SokobanGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5906735831cc0b8afadc8a88f1c17a168e044ca6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SokobanGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SokobanGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

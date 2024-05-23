@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SokobaGame
+namespace SokobanGame
 {
     //Main Program
     public class Program

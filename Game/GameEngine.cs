@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SokobaGame
+namespace SokobanGame
 {
     //Game Engine
     public class GameEngine
@@ -11,7 +11,7 @@ namespace SokobaGame
         //Constructor
         public GameEngine()
         {
-            scene = new Scene("Map.txt");
+            scene = new Scene("Stage.txt");
         }
         
         //Run Method(Interface)
@@ -27,9 +27,6 @@ namespace SokobaGame
             
             while (true)
             {
-                
-                
-                
                 //screen clear
                 ResetScreen();
                 
@@ -59,6 +56,7 @@ namespace SokobaGame
         //update method(pass user input)
         private void Update(ConsoleKey key)
         {
+            
             //press Q or Esc to exit
             if (key == ConsoleKey.Q || key == ConsoleKey.Escape)
             {
@@ -69,6 +67,8 @@ namespace SokobaGame
                 //program terminated
                 Environment.Exit(0);
             }
+            
+            scene.Update(key);
         }
         
         //scene draw method
